@@ -16,7 +16,7 @@ public class MyActivity extends Activity {
     private void init(){
 
     }
-
+	//comment by dev2
     private void set(){
         
     }
