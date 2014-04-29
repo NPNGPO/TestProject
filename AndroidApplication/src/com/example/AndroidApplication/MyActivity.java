@@ -16,6 +16,7 @@ public class MyActivity extends Activity {
     private void init(){
 
     }
+	//comment by dev2
 	//Comment by User 1
     private void set(){
         //
