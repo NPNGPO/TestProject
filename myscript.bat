@@ -1,0 +1,1 @@
+echo "added from script" >> script.txt
