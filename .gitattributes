@@ -1,1 +1,1 @@
-*.txt	filter=myscript.bat
+*.txt	filter=indent
